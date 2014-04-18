@@ -30,6 +30,9 @@ gem 'spring',        group: :development
 # accessible as NewshopSqlite::Application::Markdown
 gem 'redcarpet'
 
+# Serializers for JSON APIs http://railscasts.com/episodes/409-active-model-serializers
+gem 'active_model_serializers'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
